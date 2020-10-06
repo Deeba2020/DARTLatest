@@ -6,7 +6,24 @@ public class Manager {
     //method
     public void addEmployee (Employee newemployee , ArrayList<Employee>employees){
         employees.add(newemployee);
-        System.out.println("New employee has been added");
+        System.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                out.println("New employee has been added");
     }
 
 
